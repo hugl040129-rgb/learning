@@ -12,7 +12,7 @@
 # See LICENSE.rst for license information.
 #
 ##############################################################################
-"""To learn how to use Github"""
+"""To learn how to use Github."""
 
 # package version
 from learning.version import __version__  # noqa
