@@ -1,0 +1,18 @@
+{
+  "maintainer_name": "Guoliang Hu",
+  "maintainer_email": "hugl@stanford.edu",
+  "maintainer_github_username": "hugl",
+  "contributors": "Guoliang Hu",
+  "license_holders": "Guoliang Hu",
+  "project_name": "learning",
+  "github_username_or_orgname": "hugl040129-rgb",
+  "github_repo_name": "learning",
+  "conda_pypi_package_dist_name": "learning",
+  "package_dir_name": "learning",
+  "project_short_description": "To learn how to use Github",
+  "project_keywords": "Github",
+  "minimum_supported_python_version": "3.11",
+  "maximum_supported_python_version": "3.13",
+  "project_needs_c_code_compiled": "No",
+  "project_has_gui_tests": "No"
+}
